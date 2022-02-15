@@ -1,0 +1,25 @@
+{
+  "name": "greenit-core",
+  "version": "2.2.1",
+  "description": "Permet de quantifier les impacts environnementaux d'un parcours utilisateur",
+  "main": "script/GreenIT-Analysis.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jycr/GreenIT-Analysis.git"
+  },
+  "keywords": [
+    "greenit"
+  ],
+  "author": "didierfred@gmail.com",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jycr/GreenIT-Analysis/issues"
+  },
+  "homepage": "https://github.com/jycr/GreenIT-Analysis#readme"
+}
