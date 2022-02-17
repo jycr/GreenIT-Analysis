@@ -1,0 +1,22 @@
+{
+  "name": "greenit-analysis",
+  "version": "1.0.0",
+  "description": "GreenIT-Analysis est une extension pour navigateur qui vous permet de quantifier les impacts environnementaux d'un parcours utilisateur complet, même derrière un firewall et / ou une authentification applicative. L'outil vérifie également l'utilisation de bonnes pratiques visant à diminuer ces impacts.",
+  "main": "background.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jycr/GreenIT-Analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jycr/GreenIT-Analysis/issues"
+  },
+  "homepage": "https://github.com/jycr/GreenIT-Analysis#readme"
+}
